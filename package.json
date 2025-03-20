@@ -1,6 +1,6 @@
 {
   "name": "time-offset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Accumulative Time Calculator: A simple calculator for time offsets that provides methods to manipulate and retrieve time values.",
   "keywords": [
     "time",
@@ -19,6 +19,7 @@
     "typescript"
   ],
   "license": "MIT",
+  "repository": "https://github.com/AleksDolgop/time-offset",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "files": [
